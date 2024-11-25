@@ -315,7 +315,7 @@ Auf den folgenden Folien finden sich einige vertiefende Infos zur Präsentation.
 ## CKAN-API: Bereitstellung von Metadaten
 <br>
 CKAN (Comprehensive Knowledge Archive Network) ist eine Open Source-Software zur Katalogisierung und Bereitstellung von Open Data.
-![](images/ckan_logo){width=70% height=70% fig-align="center"}
+![](images/ckan_logo.png){width=70% height=70% fig-align="center"}
 
 ## Grundwasser-Atlas: Beispiel-Visualisierung
 
