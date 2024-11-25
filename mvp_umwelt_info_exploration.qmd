@@ -67,7 +67,7 @@ Wichtigste Endpunkte:
 
 ## API: Wichtige CKAN-Endpunkte für die Abfrage von umwelt.info  
 - **`/package_search`** Volltextsuche nach Suchbegriff. Die Wildcard "*" ermöglicht die Abfrage des gesamten Metadatenbestandes
-- **`/package_show`** Ermöglicht die Abfrage einzelner Datensätze im CKAN Format. - **`/counts/now`**: Aktuelle Gesamtzahl an Datensätzen.
+- **`/package_show`** Ermöglicht die Abfrage einzelner Datensätze im CKAN Format.
 - **`/counts/now`**: Aktuelle Gesamtzahl an Datensätzen.
 
 ## API Beispiele mit Python
