@@ -1,5 +1,6 @@
 ---
 title: "Datenanalyse umwelt.info: <br> Von Rohdaten zu Projekten"
+subtitle: "<i class='fab fa-github'></i> [github.com/tifa365/mvp_umwelt_info_exploration](https://github.com/tifa365/mvp_umwelt_info_exploration)"
 author: "Tim Fangmeyer <div style='font-size: 0.7em; margin-top: 0.5em;'><a href='https://de.linkedin.com/today/author/timfangmeyer' style='color: #0077b5'>**linkedin/today/author/timfangmeyer**</a></div>"
 lang: de
 kernel: umwelt-info-exploration
