@@ -7,8 +7,7 @@ format:
   revealjs:
     theme: dark
     css: styles.css
-    html:
-        embed-resources: true
+    embed-resources: true
 ---
 
 ## umwelt.info
